@@ -21,3 +21,4 @@ def extract_translations(path):
 
 if __name__ == '__main__':
     extract_translations(sys.argv[1])
+    # finish this in two days
